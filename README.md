@@ -15,9 +15,9 @@ Este repositório reúne materiais, anotações e práticas adquiridas ao longo 
 ## 📂 Estrutura do Repositório 
 ├── `/Fundamentos`          → Fundamentos de Cibersegurança 
 
-├── `/Anonimato_DeepWeb`    → Exemplos práticos e scripts.  
+├── `/Anonimato_DeepWeb`    → Conceitos sobre privacidade e navegação anônima.
 
-├── `/Invasão_Hack`         → Automação e ferramentas customizadas. 
+├── `/Hacking-Defense`         → Técnicas e exploração de vulnerabilidades e defesa contra ataques
 
 ├── `LICENSE.md`            → Definição dos direitos de uso do projeto
  
