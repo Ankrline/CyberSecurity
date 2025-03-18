@@ -47,7 +47,9 @@ Para a execução deste projeto, utilizamos:
 ## 📊 Resultados
 Se configurado corretamente, ao acessar o link gerado, a vítima visualizará uma cópia idêntica do Facebook. Ao inserir as credenciais, elas serão capturadas e armazenadas no Kali Linux.
 
-![Demonstração do ataque de phishing](https://example.com/exemplo-imagem.png) *(Substituir pelo link real da imagem)*
+![image](https://github.com/user-attachments/assets/a82b7055-3e3a-4ef0-9582-7306d21f89e7)
+
+OBS: Os navegadores atuais detectam o site clonado, então eles impedem que os dados sejam transferido, por conta disso ao testar pode não se opter o resultado.
 
 ---
 
