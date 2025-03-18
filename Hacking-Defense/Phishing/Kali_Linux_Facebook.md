@@ -49,7 +49,11 @@ Se configurado corretamente, ao acessar o link gerado, a vítima visualizará um
 
 ![image](https://github.com/user-attachments/assets/a82b7055-3e3a-4ef0-9582-7306d21f89e7)
 
-OBS: Os navegadores atuais detectam o site clonado, então eles impedem que os dados sejam transferido, por conta disso ao testar pode não se opter o resultado.
+⚠ Observação Importante
+Os navegadores modernos possuem mecanismos avançados de segurança que detectam e bloqueiam sites clonados para impedir a transferência de dados.
+Ao testar o código, é possível que o ataque não funcione conforme esperado, pois os navegadores podem impedir a captura das credenciais.
+A imagem apresentada no projeto é apenas uma simulação do que deveria acontecer ao executar o código corretamente em um ambiente sem essas restrições.
 
+ 
 ---
 
